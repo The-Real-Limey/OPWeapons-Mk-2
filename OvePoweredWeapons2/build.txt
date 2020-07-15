@@ -1,0 +1,3 @@
+displayName = OPWeapons MK.2
+author = Limey
+version = 0.5
